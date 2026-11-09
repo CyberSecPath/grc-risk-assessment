@@ -1,0 +1,6 @@
+﻿Action_ID,Related_Risk_ID,Recommended_Action,Priority,Owner_Role,Target_Timeframe,Status,Completion_Evidence
+T-01,R-01,Enforce MFA for all email and critical application accounts; verify coverage.,High,IT Administrator,Within 30 days,Not started,MFA policy export and coverage report
+T-02,R-03,Perform a backup restoration test and document recovery results.,High,IT Administrator,Within 30 days,Not started,Dated restore-test record and issues log
+T-03,R-02,Create a monthly endpoint patch compliance report and remediation process.,High,IT Administrator,Within 60 days,Not started,Monthly report and approved exception log
+T-04,R-04,Review customer/order platform permissions and remove unnecessary access.,Moderate,Business Operations Manager,Within 60 days,Not started,Signed access review and remediation record
+T-05,R-05,"Review critical vendor contacts, security commitments, and continuity steps.",Moderate,Operations Manager,Within 90 days,Not started,Completed vendor review and continuity notes

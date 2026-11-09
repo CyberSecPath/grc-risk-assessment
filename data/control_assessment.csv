@@ -1,0 +1,7 @@
+﻿Control_ID,Related_Risk_ID,Control_Area,Control_Description,Status,Evidence_Example_To_Request,Assessment_Notes
+C-01,R-01,Identity and access management,Multifactor authentication is required for all company email accounts.,Needs verification,Identity provider MFA policy export; sample account settings,Do not mark effective until coverage is verified.
+C-02,R-01,Security awareness,Employees receive phishing and credential-safety guidance.,Partially implemented,Training completion records; phishing reporting process,The scenario only assumes basic reminders.
+C-03,R-02,Vulnerability and patch management,Endpoints receive security updates within defined timeframes.,Needs improvement,Endpoint inventory; patch compliance report; exception log,Centralized monitoring and deadlines are recommended.
+C-04,R-03,Backup and recovery,Critical data is backed up and restoration is tested periodically.,Needs verification,Backup job reports; restore-test results; backup access list,A successful backup job does not prove recoverability.
+C-05,R-04,Access control,Access to customer/order data follows least privilege and is reviewed periodically.,Needs improvement,User-role export; quarterly access review sign-off,"Review should include joiners, movers, and leavers."
+C-06,R-05,Third-party risk,Critical vendors are reviewed for security and continuity considerations.,Needs improvement,Vendor inventory; security questionnaire; contract/SLA review,Prioritize vendors supporting sales and payment workflows.

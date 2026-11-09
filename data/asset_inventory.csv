@@ -1,0 +1,7 @@
+﻿Asset_ID,Asset_Name,Asset_Type,Business_Owner,Data_Classification,Business_Criticality,Notes
+A-01,Employee email accounts,Cloud service,IT Administrator,Confidential,High,Used for internal and external business communications.
+A-02,Employee laptops,Endpoint devices,IT Administrator,Internal,High,Used to access company email and business applications.
+A-03,Customer and order records,Business data,Business Operations Manager,Confidential,Critical,Contains customer contact and order information.
+A-04,Online order platform,Cloud application,Business Operations Manager,Confidential,Critical,Supports online sales and order processing.
+A-05,Backup repository,Data storage,IT Administrator,Confidential,High,Stores backup copies needed for recovery.
+A-06,Third-party payment service,External service,Finance Manager,Restricted,Critical,Payment processing is handled by an external provider.
